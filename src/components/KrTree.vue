@@ -14,7 +14,7 @@
 import KrTreeNode from "@/components/KrTreeNode";
 
 export default {
-  name: "examTree",
+  name: "KrTree",
   components: {KrTreeNode},
   props: {
     load: Function,
